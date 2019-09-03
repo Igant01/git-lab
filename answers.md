@@ -27,5 +27,5 @@
 
 12. The changes were updated
 
-13. 
+13. .  ..  .git  .gitignore  README.md
 
